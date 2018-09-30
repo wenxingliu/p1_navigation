@@ -1,0 +1,6 @@
+.DS_Store
+.idea/*
+.ipynb_checkpoints/*
+*.xml
+Banana.app/*
+Navigation_Pixels.ipynb
