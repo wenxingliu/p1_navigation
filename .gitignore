@@ -3,4 +3,5 @@
 .ipynb_checkpoints/*
 *.xml
 Banana.app/*
+Banana*
 Navigation_Pixels.ipynb
